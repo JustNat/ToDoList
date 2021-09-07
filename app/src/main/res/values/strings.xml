@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="tarefas">Tarefas</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="create_task">Criar Tarefa</string>
+    <string name="hour">Hora</string>
+    <string name="date">Data</string>
+    <string name="description">Descrição</string>
+    <string name="title">Título</string>
+    <string name="add_task">Adicionar tarefa</string>
+</resources>
